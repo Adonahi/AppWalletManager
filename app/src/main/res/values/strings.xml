@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Frafments</string>
+    <array name="arrTipoIngreso">
+        <item>Sueldo</item>
+        <item>Depósito</item>
+        <item>Préstamo</item>
+        <item>Otros</item>
+    </array>
+    <array name="arrTipoGasto">
+        <item>Comida</item>
+        <item>Transporte</item>
+        <item>Escuela</item>
+        <item>Deudas</item>
+        <item>Deportes</item>
+        <item>Casa</item>
+        <item>Ropa</item>
+        <item>Recreación</item>
+    </array>
+    <array name="arrSeleccion">
+        <item>Año</item>
+        <item>Mes</item>
+        <item>Día</item>
+    </array>
+</resources>
